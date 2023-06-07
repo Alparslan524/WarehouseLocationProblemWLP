@@ -10,7 +10,7 @@ namespace WarehouseLocationProblemWLP
     {
         public static void Main(string[] args)
         {
-            string filePath = "wl_16_1";
+            string filePath = "wl_500_1";
 
             List<double> warehouseCapacitiesList = new List<double>();
             List<double> warehouseCostList = new List<double>();
